@@ -7,6 +7,8 @@ Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FShu343%2FUsera&envs=API_HASH%2CAPI_ID%2CTG_BOT_USER_NAME_BF_HER%2CDATABASE_URL%2HU_STRING_SESSION%2TZDefault=Asia%2FKolkata)
+
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
