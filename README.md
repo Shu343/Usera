@@ -5,6 +5,8 @@ Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 [Telethon](https://github.com/LonamiWebs/Telethon).
 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
